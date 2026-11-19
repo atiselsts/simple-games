@@ -10,3 +10,6 @@
 [submodule "snake-amoeba"]
 	path = snake-amoeba
 	url = ../snake-amoeba.git
+[submodule "bearslayer"]
+	path = bearslayer
+	url = ../bearslayer.git
