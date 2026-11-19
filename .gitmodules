@@ -7,9 +7,6 @@
 [submodule "heart_ball"]
 	path = heart_ball
 	url = ../heart_ball.git
-[submodule "math_game"]
-	path = math_game
-	url = ../math_game.git
 [submodule "snake-amoeba"]
 	path = snake-amoeba
 	url = ../snake-amoeba.git
